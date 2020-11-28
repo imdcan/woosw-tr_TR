@@ -1,0 +1,475 @@
+# Copyright (C) 2020 WPClever.net
+# This file is distributed under the same license as the WPC Smart Wishlist for WooCommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPC Smart Wishlist for WooCommerce 2.2.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woo-smart-"
+"wishlist\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-11-24T03:19:31+00:00\n"
+"PO-Revision-Date: 2020-11-28 13:51+0300\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Domain: woosw\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: tr\n"
+
+#. Plugin Name of the plugin
+msgid "WPC Smart Wishlist for WooCommerce"
+msgstr "WooCommerce için WPC Akıllı İstek Listesi"
+
+#. Plugin URI of the plugin
+msgid "https://wpclever.net/"
+msgstr "https://wpclever.net/"
+
+#. Description of the plugin
+msgid ""
+"WPC Smart Wishlist is a simple but powerful tool that can help your customer "
+"save products for buy later."
+msgstr ""
+"WPC Smart Wishlist, müşterinizin daha sonra satın almak üzere ürünleri "
+"kaydetmesine yardımcı olabilecek basit ama güçlü bir araçtır."
+
+#. Author of the plugin
+msgid "WPClever.net"
+msgstr "WPClever.net"
+
+#. Author URI of the plugin
+msgid "https://wpclever.net"
+msgstr "https://wpclever.net"
+
+#: wpc-smart-wishlist.php:119 wpc-smart-wishlist.php:944
+#: wpc-smart-wishlist.php:1052 wpc-smart-wishlist.php:1232
+msgid "Wishlist"
+msgstr "İstek Listesi"
+
+#: wpc-smart-wishlist.php:207 wpc-smart-wishlist.php:260
+msgid "Please log in to use the wishlist!"
+msgstr "İstek listesini kullanmak için lütfen giriş yapın!"
+
+#: wpc-smart-wishlist.php:226
+msgid "Added to the wishlist!"
+msgstr "İstek listesine eklendi!"
+
+#: wpc-smart-wishlist.php:229
+msgid "Already in the wishlist!"
+msgstr "Zaten dilek listesinde!"
+
+#: wpc-smart-wishlist.php:243 wpc-smart-wishlist.php:286
+msgid "Have an error, please try again!"
+msgstr "Bir hata var, lütfen tekrar deneyin!"
+
+#: wpc-smart-wishlist.php:276
+msgid "Removed from wishlist!"
+msgstr "İstek listesinden kaldırıldı!"
+
+#: wpc-smart-wishlist.php:278 wpc-smart-wishlist.php:1040
+msgid "There are no products on the wishlist!"
+msgstr "İstek listesinde hiç ürün yok!"
+
+#: wpc-smart-wishlist.php:281
+msgid "The product does not exist on the wishlist!"
+msgstr "Ürün istek listesinde mevcut değil!"
+
+#: wpc-smart-wishlist.php:300
+msgid "Please log in to use wishlist!"
+msgstr "İstek listesini kullanmak için lütfen giriş yapın!"
+
+#: wpc-smart-wishlist.php:362 wpc-smart-wishlist.php:653
+#: wpc-smart-wishlist.php:654 wpc-smart-wishlist.php:934
+msgid "Browse wishlist"
+msgstr "İstek Listesini Gez"
+
+#: wpc-smart-wishlist.php:370 wpc-smart-wishlist.php:621
+#: wpc-smart-wishlist.php:622 wpc-smart-wishlist.php:925
+msgid "Add to wishlist"
+msgstr "İstek listesine ekle"
+
+#: wpc-smart-wishlist.php:405
+msgid "Share on:"
+msgstr "Paylaş:"
+
+#: wpc-smart-wishlist.php:406
+msgid "Facebook"
+msgstr "Facebook"
+
+#: wpc-smart-wishlist.php:407
+msgid "Twitter"
+msgstr "Twitter"
+
+#: wpc-smart-wishlist.php:408
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: wpc-smart-wishlist.php:409
+msgid "Mail"
+msgstr "Mail"
+
+#: wpc-smart-wishlist.php:415
+msgid "Wishlist link:"
+msgstr "İstek listesi bağlantısı:"
+
+#: wpc-smart-wishlist.php:417
+msgid "Copy"
+msgstr "Kopya"
+
+#: wpc-smart-wishlist.php:441
+msgid ""
+"Thank you for using our plugin! If you are satisfied, please reward it a "
+"full five-star %s rating."
+msgstr ""
+"Eklentimizi kullandığınız için teşekkür ederiz! Memnunsanız, lütfen beş "
+"yıldızlı tam bir %s derecelendirmesini ödüllendirin."
+
+#: wpc-smart-wishlist.php:444
+msgid "Reviews"
+msgstr "Yorumlar"
+
+#: wpc-smart-wishlist.php:446
+msgid "Changelog"
+msgstr "Değişiklikler"
+
+#: wpc-smart-wishlist.php:448
+msgid "Discussion"
+msgstr "Tartışma"
+
+#: wpc-smart-wishlist.php:455 wpc-smart-wishlist.php:972
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: wpc-smart-wishlist.php:460 wpc-smart-wishlist.php:973
+msgid "Premium Version"
+msgstr "Premium Sürüm"
+
+#: wpc-smart-wishlist.php:464
+msgid "Essential Kit"
+msgstr "Temel Kit"
+
+#: wpc-smart-wishlist.php:475
+msgid "General"
+msgstr "Genel"
+
+#: wpc-smart-wishlist.php:479
+msgid "Disable the wishlist for unauthenticated users"
+msgstr ""
+"Kimliği doğrulanmamış kullanıcılar için istek  listesini devre dışı bırakın"
+
+#: wpc-smart-wishlist.php:484 wpc-smart-wishlist.php:499
+#: wpc-smart-wishlist.php:517 wpc-smart-wishlist.php:564
+#: wpc-smart-wishlist.php:582
+msgid "Yes"
+msgstr "Evet"
+
+#: wpc-smart-wishlist.php:488 wpc-smart-wishlist.php:503
+#: wpc-smart-wishlist.php:521 wpc-smart-wishlist.php:568
+#: wpc-smart-wishlist.php:586
+msgid "No"
+msgstr "Hayır"
+
+#: wpc-smart-wishlist.php:494
+msgid "Auto remove"
+msgstr "Otomatik kaldır"
+
+#: wpc-smart-wishlist.php:507
+msgid "Auto remove product from the wishlist after adding to the cart."
+msgstr ""
+"Sepete ekledikten sonra ürünü istek listesinden otomatik olarak kaldırın."
+
+#: wpc-smart-wishlist.php:512
+msgid "Show note"
+msgstr "Notu göster"
+
+#: wpc-smart-wishlist.php:525
+msgid ""
+"Show your note on each product for all visitors. Only you can add/edit these "
+"notes."
+msgstr ""
+"Notunuzu tüm ziyaretçiler için her üründe gösterin. Bu notları yalnızca siz "
+"ekleyebilir / düzenleyebilirsiniz."
+
+#: wpc-smart-wishlist.php:536
+msgid "Page"
+msgstr "Sayfa"
+
+#: wpc-smart-wishlist.php:539
+msgid "Settings for wishlist page."
+msgstr "İstek listesi sayfası ayarları."
+
+#: wpc-smart-wishlist.php:543
+msgid "Wishlist page"
+msgstr "İstek listesi sayfası"
+
+#: wpc-smart-wishlist.php:548
+msgid "Choose a page"
+msgstr "Bir sayfa seçin"
+
+#: wpc-smart-wishlist.php:552
+msgid "Add shortcode %s to display the wishlist on a page."
+msgstr "İstek listesini bir sayfada görüntülemek için %s kısa kodu ekleyin."
+
+#: wpc-smart-wishlist.php:554
+msgid ""
+"After choosing a page, please go to Setting >> Permalinks and press Save "
+"Changes."
+msgstr ""
+"Bir sayfa seçtikten sonra, lütfen Ayar >> Kalıcı Bağlantılar'a gidin ve "
+"Değişiklikleri Kaydet'e basın."
+
+#: wpc-smart-wishlist.php:559
+msgid "Share buttons"
+msgstr "Paylaş düğmeleri"
+
+#: wpc-smart-wishlist.php:572
+msgid "Enable share buttons on the wishlist page?"
+msgstr "İstek listesi sayfasındaki paylaşım düğmeleri etkinleştirilsin mi?"
+
+#: wpc-smart-wishlist.php:577
+msgid "Copy link"
+msgstr "Bağlantıyı kopyala"
+
+#: wpc-smart-wishlist.php:590
+msgid "Enable copy wishlist link to share?"
+msgstr "Paylaşmak için istek listesi bağlantısını kopyala etkinleştirilsin mi?"
+
+#: wpc-smart-wishlist.php:596 wpc-smart-wishlist.php:608
+msgid "Button"
+msgstr "Buton"
+
+#: wpc-smart-wishlist.php:599
+msgid "Settings for \"Add to wishlist\" button."
+msgstr "\"İstek listesine ekle\" düğmesi ayarları."
+
+#: wpc-smart-wishlist.php:603
+msgid "Type"
+msgstr "Tip"
+
+#: wpc-smart-wishlist.php:612
+msgid "Link"
+msgstr "Link"
+
+#: wpc-smart-wishlist.php:618
+msgid "Text"
+msgstr "Metin"
+
+#: wpc-smart-wishlist.php:624
+msgid ""
+"Leave blank to use the default text or its equivalent translation in "
+"multiple languages."
+msgstr ""
+"Varsayılan metni veya eşdeğer çevirisini birden çok dilde kullanmak için boş "
+"bırakın."
+
+#: wpc-smart-wishlist.php:629 wpc-smart-wishlist.php:855
+msgid "Action"
+msgstr "Aksiyon"
+
+#: wpc-smart-wishlist.php:634
+msgid "Show message"
+msgstr "Mesajı göster"
+
+#: wpc-smart-wishlist.php:638
+msgid "Show product list"
+msgstr "Ürün listesini göster"
+
+#: wpc-smart-wishlist.php:642
+msgid "Add to wishlist solely"
+msgstr "Yalnızca istek listesine ekle"
+
+#: wpc-smart-wishlist.php:645
+msgid "Action triggered by clicking on the wishlist button."
+msgstr "İstek listesi düğmesine tıklanarak tetiklenen eylem."
+
+#: wpc-smart-wishlist.php:650
+msgid "Text (added)"
+msgstr "Metin (eklendi)"
+
+#: wpc-smart-wishlist.php:656
+msgid ""
+"Text shown after adding an item to the wishlist. Leave blank to use the "
+"default text or its equivalent translation in multiple languages."
+msgstr ""
+"İstek listesine bir öğe ekledikten sonra gösterilen metin. Varsayılan metni "
+"veya eşdeğer çevirisini birden çok dilde kullanmak için boş bırakın."
+
+#: wpc-smart-wishlist.php:661
+msgid "Action (added)"
+msgstr "Eylem (eklendi)"
+
+#: wpc-smart-wishlist.php:666
+msgid "Open wishlist popup"
+msgstr "İstek listesi açılır penceresini aç"
+
+#: wpc-smart-wishlist.php:670 wpc-smart-wishlist.php:1060
+msgid "Open wishlist page"
+msgstr "İstek listesi sayfasını aç"
+
+#: wpc-smart-wishlist.php:673
+msgid ""
+"Action triggered by clicking on the wishlist button after adding an item to "
+"the wishlist."
+msgstr ""
+"İstek listesine bir öğe ekledikten sonra istek listesi düğmesine tıklanarak "
+"tetiklenen eylem."
+
+#: wpc-smart-wishlist.php:678
+msgid "Extra class (optional)"
+msgstr "Ekstra sınıf (isteğe bağlı)"
+
+#: wpc-smart-wishlist.php:683
+msgid "Add extra class for action button/link, split by one space."
+msgstr ""
+"Eylem düğmesi / bağlantısı için bir boşlukla bölünmüş fazladan sınıf ekleyin."
+
+#: wpc-smart-wishlist.php:688
+msgid "Position on archive page"
+msgstr "Arşiv sayfasındaki konum"
+
+#: wpc-smart-wishlist.php:693 wpc-smart-wishlist.php:724
+msgid "Under title"
+msgstr "Başlık altı"
+
+#: wpc-smart-wishlist.php:697
+msgid "Under rating"
+msgstr "Derecelendirmenin altında"
+
+#: wpc-smart-wishlist.php:701
+msgid "Under price"
+msgstr "Fiyatın altında"
+
+#: wpc-smart-wishlist.php:705 wpc-smart-wishlist.php:736
+msgid "Above add to cart button"
+msgstr "Sepete ekle düğmesinin üstünde"
+
+#: wpc-smart-wishlist.php:709 wpc-smart-wishlist.php:740
+msgid "Under add to cart button"
+msgstr "Sepete ekle düğmesinin altında"
+
+#: wpc-smart-wishlist.php:713 wpc-smart-wishlist.php:752
+msgid "None (hide it)"
+msgstr "Yok (gizle)"
+
+#: wpc-smart-wishlist.php:719
+msgid "Position on single page"
+msgstr "Tek sayfada konumlandırın"
+
+#: wpc-smart-wishlist.php:728
+msgid "Under price & rating"
+msgstr "Fiyat ve derecelendirmenin altında"
+
+#: wpc-smart-wishlist.php:732
+msgid "Under excerpt"
+msgstr "Alıntı altında"
+
+#: wpc-smart-wishlist.php:744
+msgid "Under meta"
+msgstr "Meta altında"
+
+#: wpc-smart-wishlist.php:748
+msgid "Under sharing"
+msgstr "Paylaşım altında"
+
+#: wpc-smart-wishlist.php:758
+msgid "Shortcode"
+msgstr "Kısa kod"
+
+#: wpc-smart-wishlist.php:761
+msgid ""
+"You can add a button manually by using the shortcode %s, eg. %s for the "
+"product whose ID is 99."
+msgstr ""
+"%s kısa kodunu kullanarak manuel olarak bir düğme ekleyebilirsiniz, örn. "
+"Kimliği 99 olan ürün için %s."
+
+#: wpc-smart-wishlist.php:766
+msgid "Categories"
+msgstr "Kategoriler"
+
+#: wpc-smart-wishlist.php:781
+msgid "All categories"
+msgstr "Tüm Kategoriler"
+
+#: wpc-smart-wishlist.php:787
+msgid "Only show the wishlist button for products in selected categories."
+msgstr ""
+"Yalnızca seçilen kategorilerdeki ürünler için istek listesi düğmesini "
+"gösterin."
+
+#: wpc-smart-wishlist.php:793
+msgid "Popup"
+msgstr "Popup"
+
+#: wpc-smart-wishlist.php:796
+msgid "Settings for the wishlist popup."
+msgstr "İstek listesi açılır penceresi için ayarlar."
+
+#: wpc-smart-wishlist.php:800
+msgid "Color"
+msgstr "Renk"
+
+#: wpc-smart-wishlist.php:807
+msgid "Choose the color, default %s"
+msgstr "Varsayılan rengi seçin %s"
+
+#: wpc-smart-wishlist.php:812
+msgid "Continue shopping link"
+msgstr "Alışverişe devam et bağlantısı"
+
+#: wpc-smart-wishlist.php:818
+msgid ""
+"By default, the wishlist popup will only be closed when customers click on "
+"the \"Continue Shopping\" button."
+msgstr ""
+"Varsayılan olarak, istek listesi açılır penceresi yalnızca müşteriler "
+"\"Alışverişe Devam Et\" düğmesini tıkladığında kapatılacaktır."
+
+#: wpc-smart-wishlist.php:824
+msgid "Menu"
+msgstr "Menü"
+
+#: wpc-smart-wishlist.php:835
+msgid "Menu(s)"
+msgstr "Menü (ler)"
+
+#: wpc-smart-wishlist.php:850
+msgid "Choose the menu(s) you want to add the \"wishlist menu\" at the end."
+msgstr ""
+"Sonunda \"istek listesi menüsü\" eklemek istediğiniz menü (ler) i seçin."
+
+#: wpc-smart-wishlist.php:860
+msgid "Open page"
+msgstr "Sayfayı aç"
+
+#: wpc-smart-wishlist.php:864
+msgid "Open popup"
+msgstr "Açılır pencere aç"
+
+#: wpc-smart-wishlist.php:867
+msgid "Action when clicking on the \"wishlist menu\"."
+msgstr "\"İstek listesi menüsü\" tıklandığında yapılan işlem."
+
+#: wpc-smart-wishlist.php:874
+msgid "Update Options"
+msgstr "Seçenekleri Güncelle"
+
+#: wpc-smart-wishlist.php:943
+msgid "Copied the wishlist link:"
+msgstr "İstek listesi bağlantısı kopyalandı:"
+
+#: wpc-smart-wishlist.php:989
+msgid "Support"
+msgstr "Destek"
+
+#: wpc-smart-wishlist.php:1032
+msgid "In stock"
+msgstr "Stokta"
+
+#: wpc-smart-wishlist.php:1032
+msgid "Out of stock"
+msgstr "Stokta yok"
+
+#: wpc-smart-wishlist.php:1064
+msgid "Continue shopping"
+msgstr "Alışverişe devam et"
